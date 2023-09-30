@@ -2,9 +2,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Texto Piscante</title>
+    <style>
+        @keyframes blink {
+            0% {
+                visibility: hidden;
+            }
+            50% {
+                visibility: visible;
+            }
+            100% {
+                visibility: hidden;
+            }
+        }
+        .blinking-text {
+            animation: blink 1s infinite;
+        }
+    </style>
 </head>
 <body>
-    <h1><blink>Texto Piscante</blink></h1>
+    <h1 class="blinking-text">Texto Piscante</h1>
 </body>
 </html>
+
