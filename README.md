@@ -1,5 +1,5 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Ícone do Python" width="90">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Ícone do Python" width="200">
 
 
 
