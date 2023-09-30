@@ -2,6 +2,7 @@
 ![Ícone do Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
 
 
+
 # Olá, sou LippeCS!
 
 ## Sobre Mim
