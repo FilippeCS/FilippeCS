@@ -1,12 +1,13 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png) Python
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png) JavaScript
-![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png) C++
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) HTML
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png) CSS
-![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/800px-Flask_logo.svg.png) Flask
-![Wireshark](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wireshark_Logo.svg/1200px-Wireshark_Logo.svg.png) Wireshark
-![Metasploit](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Metasploit_logo_and_wordmark.svg/1200px-Metasploit_logo_and_wordmark.svg.png) Metasploit
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/320px-Python_logo_and_wordmark.svg.png" alt="Python" width="50"> Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50"> JavaScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/320px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="50"> C++
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50"> HTML
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/320px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="50"> CSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/320px-Flask_logo.svg.png" alt="Flask" width="50"> Flask
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wireshark_Logo.svg/320px-Wireshark_Logo.svg.png" alt="Wireshark" width="50"> Wireshark
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Metasploit_logo_and_wordmark.svg/320px-Metasploit_logo_and_wordmark.svg.png" alt="Metasploit" width="50"> Metasploit
+
 
 
 
