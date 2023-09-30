@@ -1,4 +1,6 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
+![Ícone do Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
+
 
 # Olá, sou LippeCS!
 
