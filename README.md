@@ -1,1 +1,1 @@
-[Clique aqui para ver o Texto Piscante](https://FilippeCS.github.io/FilippeCS/teste.html)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filippecs&layout=compact)
