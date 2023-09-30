@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <p style="animation: blink 1s infinite;">Texto Piscante</p>
 
@@ -13,3 +11,5 @@
     }
   }
 </style>
+
+
