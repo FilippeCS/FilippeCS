@@ -1,3 +1,4 @@
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filippecs&layout=compact)
 
 # Olá, sou LippeCS!
@@ -7,7 +8,6 @@ Sou um entusiasta de Ciência da Computação apaixonado por Python e Segurança
 
 ## Habilidades
 - Linguagens de Programação: Python, JavaScript, C++
-- Segurança da Informação: Auditorias de Segurança, Teste de Invasão
 - Desenvolvimento Web: HTML, CSS, Flask
 - Ferramentas: Wireshark, Metasploit, Nmap
 
@@ -28,4 +28,4 @@ Obrigado por visitar o meu perfil! Sinta-se à vontade para entrar em contato, c
 
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
+
