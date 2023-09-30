@@ -1,5 +1,14 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Ícone do Python" width="300">
+![Python](https://www.python.org/static/community_logos/python-logo-generic.svg) Python
+![JavaScript](https://example.com/javascript-logo.png) JavaScript
+![C++](https://example.com/cpp-logo.png) C++
+![HTML](https://example.com/html-logo.png) HTML
+![CSS](https://example.com/css-logo.png) CSS
+![Flask](https://example.com/flask-logo.png) Flask
+![Wireshark](https://example.com/wireshark-logo.png) Wireshark
+![Metasploit](https://example.com/metasploit-logo.png) Metasploit
+![Nmap](https://example.com/nmap-logo.png) Nmap
+
 
 
 
