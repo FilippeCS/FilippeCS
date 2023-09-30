@@ -1,12 +1,13 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filippecs&show_icons=true&count_private=true)
-![Python](https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg) Python
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) JavaScript
-![C++](https://es.wikipedia.org/wiki/C%2B%2B#/media/Archivo:ISO_C++_Logo.svg) C++
-![HTML]([https://example.com/html-logo.png](https://es.wikipedia.org/wiki/HTML#/media/Archivo:HTML5_logo_and_wordmark.svg)) HTML
-![CSS](https://es.wikipedia.org/wiki/CSS#/media/Archivo:CSS3_logo_and_wordmark.svg) CSS
-![Flask](https://es.wikipedia.org/wiki/Flask#/media/Archivo:Flask_logo.svg) Flask
-![Wireshark](https://es.wikipedia.org/wiki/Wireshark#/media/Archivo:Wireshark_icon.svg) Wireshark
-![Metasploit](https://es.wikipedia.org/wiki/Metasploit#/media/Archivo:Metasploit_logo_and_wordmark.png) Metasploit
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png) Python
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png) JavaScript
+![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png) C++
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) HTML
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png) CSS
+![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/800px-Flask_logo.svg.png) Flask
+![Wireshark](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wireshark_Logo.svg/1200px-Wireshark_Logo.svg.png) Wireshark
+![Metasploit](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Metasploit_logo_and_wordmark.svg/1200px-Metasploit_logo_and_wordmark.svg.png) Metasploit
+
 
 
 
